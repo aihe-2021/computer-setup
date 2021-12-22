@@ -50,7 +50,7 @@ VIDEO WALKTHOUGH: https://www.youtube.com/watch?v=pwn4zknR5TU
                 "name": "Ubuntu-20.04",
                 "source": "Windows.Terminal.Wsl",
                 "colorScheme": "One Half Dark",
-                "startingDirectory": "//wsl$/Ubuntu-20.04/home/maia"
+                "startingDirectory": "\\\\wsl$\\Ubuntu-20.04\\home\\maia"
             },
     ```
 1. Install some required libraries including zsh
